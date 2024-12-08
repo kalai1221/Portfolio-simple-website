@@ -11,6 +11,6 @@ This is a personal portfolio website built using basic HTML and CSS. The site fe
 
 #How to Use
   Clone the repository:
-    git clone https://github.com/your-username/portfolio-website.git
+    git clone (https://github.com/kalai1221/Portfolio-simple-website/)
 
   Open index.html in your web browser to view the website.
